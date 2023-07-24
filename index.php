@@ -25,7 +25,7 @@ $vouches = isset($vouch_data['vouches']) ? $vouch_data['vouches'] : array();
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?php echo $yourname ?>'s Vouch Website</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-    <link href="stars.css" rel="stylesheet">
+    <link href="https://liteeagle.me/assets/css/stars.css" rel="stylesheet">
     <?php    
     if (isset($faviconurl) && !empty($faviconurl)) {
         echo '<link rel="icon" type="image/png" href="' . $faviconurl . '">';
