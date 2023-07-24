@@ -1,4 +1,6 @@
 <?php
+include_once('config.php');
+
 function isMobileDevice() {
     return preg_match('/\b(iphone|android|palm|blackberry|symbian)\b/i', $_SERVER['HTTP_USER_AGENT']);
 }
