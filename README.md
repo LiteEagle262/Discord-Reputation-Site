@@ -10,3 +10,6 @@ you can contact me [here](https://liteeagle.me/) for that.
 
 # What does it do?
 All this does is create a command +vouch in your discord server for your vouch channel, everytime someone vouches you it will be stored on this site, so you never have to worry about your rep being deleted again!!!
+
+#Sneak Peak
+![image](https://github.com/LiteEagle262/Discord-Reputation-Site/assets/48303729/4fbec317-a8ff-4d06-8c25-32736b553bc9)
