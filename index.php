@@ -130,9 +130,6 @@ $vouches = isset($vouch_data['vouches']) ? $vouch_data['vouches'] : array();
                 <p class="text-white">Here are all the vouches I have received on my <b><a class="discord-link" href="<?php echo $discordServerLink; ?>" target="_blank">Discord Server</a></b>.</p>
             </div>
 
-            <div class="contact">
-            </div>
-
             <div class="vouches mt-4">
                 <p class="font-bold text-white">Total Vouches: <span class="vouch-accent"><?php echo $vouch_count; ?></span></p>
             </div>
