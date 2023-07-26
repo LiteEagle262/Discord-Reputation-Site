@@ -20,20 +20,20 @@ if (!isMobileDevice()) {
     <title><?php echo $yourname ?>'s Vouch Website</title>
     <?php    
     if (isset($faviconurl) && !empty($faviconurl)) {
-        echo '<link rel="icon" type="image/png" href="' . $faviconurl . '">';
+        echo '<link rel="icon" type="image/png" href="' . $faviconurl . '">' . PHP_EOL;
     }
     else {
-      echo '<link rel="icon" type="image/png" href="https://liteeagle.me/assets/img/rep.png">';
+      echo '<link rel="icon" type="image/png" href="https://liteeagle.me/assets/img/rep.png">' . PHP_EOL;
     }
     ?>
     <meta property="og:title" content="<?php echo $yourname ?>'s Vouch Website">
     <meta property="og:description" content="<?php echo $yourname ?>'s Vouch Website stores all the vouches from a set discord server to insure you never lose your rep!">
     <?php    
     if (isset($faviconurl) && !empty($faviconurl)) {
-        echo '<meta property="og:image" content="' . $faviconurl . '">';
+        echo '<meta property="og:image" content="' . $faviconurl . '">' . PHP_EOL;
     }
     else {
-      echo '<meta property="og:image" content="https://liteeagle.me/assets/img/rep.png">';
+      echo '<meta property="og:image" content="https://liteeagle.me/assets/img/rep.png">' . PHP_EOL;
     }
     ?>
 </head>
