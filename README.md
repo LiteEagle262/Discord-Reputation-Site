@@ -5,8 +5,7 @@ Basicly, I saw this guy on flipd selling this for $95 but thought I wanted to re
 all you have to do is configure the settings, host the bot on a python server, and host the site on any server that supports php
 
 # Setup
-As this is free I do not want to hear people asking me about setup questions or asking me to set it up for them, if you want me to set it up for you I will do $10 in any crypto, but you have to still have the servers and domains,
-you can contact me [here](https://liteeagle.me/) for that.
+As this is free I do not want to hear people asking me about setup questions or asking me to set it up for them, if you want me to set it up for you I will do $10 in any crypto, I can host it on free hosting for you and all you would need is a bot token and a domain, or paid hosting, whatever you choose, you can contact me [here](https://liteeagle.me/) for that.
 
 # What does it do?
 All this does is create a command +vouch in your discord server for your vouch channel, everytime someone vouches you it will be stored on this site, so you never have to worry about your rep being deleted again!!!
