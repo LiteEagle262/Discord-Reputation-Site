@@ -17,6 +17,7 @@ if (!isMobileDevice()) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://liteeagle.me/assets/css/stars.css" rel="stylesheet">
     <title><?php echo $yourname ?>'s Vouch Website</title>
     <?php    
     if (isset($faviconurl) && !empty($faviconurl)) {
@@ -38,7 +39,13 @@ if (!isMobileDevice()) {
     ?>
 </head>
 
-<body class="bg-gray-900", style="overflow: hidden;">
+<body style="overflow: hidden;">
+    <div id="stars-group-1"></div>
+    <div id="stars-group-2"></div>
+    <div id="stars-group-3"></div>
+    <div id="stars-group-4"></div>
+    <div id="stars-group-5"></div>
+    <div id="stars-group-6"></div>
     <div class="min-h-screen flex items-center justify-center">
         <div class="text-center">
             <h1 class="text-2xl font-bold text-white mb-4">Sorry, Not Accessible on Mobile</h1>
